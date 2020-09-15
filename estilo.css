@@ -1,0 +1,155 @@
+body, html{
+    margin: 0;
+}
+
+#baba{
+    border:black solid 2px;
+    padding-top: 7%;
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-bottom: 7%;
+    background: url(FUNDO\ 1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 83,5%;
+    height:47%;
+
+
+
+}
+
+#titulo{
+    color: cornsilk;
+    font-size: 38px;
+    text-align: left;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    letter-spacing: -5%;
+}
+
+#subtitulo{
+    color: cornsilk;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: overline;
+}
+#titulob{
+    color:cornsilk ;
+    font-size: 38px;
+    text-align: right;
+    font-family:'Arial Narrow Bold', sans-serif;
+    letter-spacing: -5%;
+}
+
+#tituloc{
+    color:cornsilk ;
+    font-size: 38px;
+    text-align: left;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    letter-spacing: -5%;
+}
+#titulod{
+    color: cornsilk;
+    font-size: 38px;
+    text-align: right;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    letter-spacing: -5%;
+}
+
+#babab{
+    border: black solid 2px;
+    height:67%;
+    width: 99.5%;
+    float: left;
+    padding-top: 5%;
+    background-color:white;
+}
+ 
+#diva{
+    float: left;
+    padding-left: 40px;
+    position: relative;
+    width: 40%;
+    height:100%;
+    padding-right: 0.2px;
+}
+
+#videoa{
+    height: 90%;
+    width: 114%;
+    padding-top: 4px;
+}
+
+
+#divab{
+    float:left;
+    padding-left: 99;
+    position: relative;
+    width: 40%;
+    height:100%;
+
+}
+
+
+#tituloprojeto{
+    font-size: 30px;
+    text-align: center;
+    margin: -34px;
+    color:black;
+    font-family: monospace;
+
+}
+
+.paragrafop{
+    text-align:justify;
+    font-family: Arial;
+    color:black;
+    font-family: sans-serif;
+
+}
+
+#babac{
+    border: black solid 2px;
+    height: 130%;
+    width:83.5%;
+    padding: 3% 8% 8% 8%;
+}
+
+#titulolegado{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+
+#legadoa{
+    margin-top: -7px;
+}
+
+#videonubank{
+    height: 40%;
+    width: 96%;
+}
+
+#babad{
+    border: black solid 2px;
+    padding: 3% 8% 8% 8%;
+    height: 60%;
+    width: 83.5%;
+}
+
+#legadob{
+    margin-top: -20px;
+}
+
+#videohiper{
+    width: 96%;
+    height: 90%;
+}
+
+#babae{
+    border: black solid 2px;
+    padding: 8% 8% 8% 8%;
+    height: 60%;
+    width: 83.5%;
+}
